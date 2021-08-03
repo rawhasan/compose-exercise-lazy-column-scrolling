@@ -3,6 +3,10 @@
 - Loading images from internet using the Coil library.
 - Applying text and background color.
 
+**References:**
+- [Working with lists](https://developer.android.com/codelabs/jetpack-compose-layouts#5)
+- [List documentation](https://developer.android.com/jetpack/compose/lists)
+
 ## Dependency & Permission
 ```
 // Compose Coil
